@@ -14,3 +14,6 @@ Do wygenerowania dokumentacji zostało użyte polcenie `pydoctor --docformat=num
 
 ### Przykładowe pliki
 W katalogu *examples* znajdują się przykładowe wykresy oraz dane krzywych.
+
+### GitHub
+<a href="https://github.com/michalk33/NIFS3-CHARTS">Link do repozytorium</a>
