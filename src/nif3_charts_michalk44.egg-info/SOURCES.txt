@@ -1,0 +1,7 @@
+LICENSE
+pyproject.toml
+setup.cfg
+src/nif3_charts_michalk44.egg-info/PKG-INFO
+src/nif3_charts_michalk44.egg-info/SOURCES.txt
+src/nif3_charts_michalk44.egg-info/dependency_links.txt
+src/nif3_charts_michalk44.egg-info/top_level.txt
